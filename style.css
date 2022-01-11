@@ -86,3 +86,8 @@ img{
     width: 80%;
     padding-left: 25%;
 }
+.frontend-bg-img{
+    background-image: url(./img/frontend-bg-img.png);
+    background-repeat: no-repeat;
+    margin: 5%;
+}
