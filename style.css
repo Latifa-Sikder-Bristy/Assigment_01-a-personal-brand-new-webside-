@@ -46,6 +46,7 @@ p{
     display: flex;
     margin-left: 3%;
     margin-right: 3%;
+    margin-bottom: 10%;
 }
 .quarter-width{
     width: 20%;
@@ -68,4 +69,20 @@ img{
 }
 #q4{
     background-color: #f2d1fa;
+}
+.frontend-section{
+    display: flex;
+}
+.width-40{
+    width: 40%;
+}
+.frontend-right-div{
+    width: 60%;
+    padding-right: 10%;
+    padding-top: 0%;
+    padding-left: 5%;
+}
+.frontend-img{
+    width: 80%;
+    padding-left: 25%;
 }
