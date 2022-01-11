@@ -72,6 +72,8 @@ img{
 }
 .frontend-section{
     display: flex;
+    padding-bottom: 5%;
+    padding-top: 0%;
 }
 .width-40{
     width: 40%;
@@ -81,16 +83,78 @@ img{
     padding-right: 10%;
     padding-top: 0%;
     padding-left: 15%;
+    margin-top: 0%;
 }
 .frontend-img{
     width: 100%;
-    padding-left: 20%;
+    padding-left: 25%;
+    padding-top: 0%;
 }
 .frontend-bg-img{
     background-image: url(./img/frontend-bg-img.png);
     background-repeat: no-repeat;
-    margin: 2%;
+    margin: 1%;
 }
 .width-60{
     width: 60%;
+}
+.backend-section{
+    display: flex;
+    padding-bottom: 5%;
+}
+.width-60{
+    width: 60%;
+}
+.width-40{
+    width: 40%;
+    padding-right: 5%;
+}
+.backend-img{
+    width: 80%;
+}
+.backend-left-div{
+    padding-left: 8%;
+    padding-right: 5%;
+}
+.dream-project-section{
+    text-align: center;
+}
+.dream-project-div{
+    display: flex;
+    margin-top: 0%;
+    padding-top: 0%;
+}
+.half-width{
+    width: 50%;
+}
+.chocolate-app-img{
+    width: 42%;
+    border-radius: 15px;
+}
+.dream-project-right-div{
+    text-align: left;
+}
+.dream-project-bg-img{
+    background-image: url(./img/shape-4.png);
+    background-size: 70%;
+    background-repeat: no-repeat;
+    background-position-y: 30%;
+    background-position-x: -80%;
+}
+#app-title{
+    color: #4AC6D2;
+}
+footer{
+    background-color: rgb(31, 30, 30);
+    text-align: center;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+    color: honeydew;
+    padding: 3%;
+}
+.footer-span1{
+    color: #9E15BF;
+}
+.footer-span2{
+    color: #4AC6D2;
 }
