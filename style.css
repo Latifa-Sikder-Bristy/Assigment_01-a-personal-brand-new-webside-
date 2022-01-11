@@ -39,3 +39,33 @@ p{
 .left-div-top-section{
     margin-top: 3%;
 }
+.mission-section{
+    text-align: center;
+}
+.quarter-section{
+    display: flex;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+.quarter-width{
+    width: 20%;
+    padding: 2%;
+    border-radius: 15px;
+    margin: 1%;
+}
+.quarter-width
+img{
+    width: 90%;
+}
+#q1{
+    background-color: #ebf9fa;
+}
+#q3{
+    background-color: #c2ecf0;
+}
+#q2{
+    background-color: #f8e8fc;
+}
+#q4{
+    background-color: #f2d1fa;
+}
